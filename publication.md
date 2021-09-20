@@ -6,6 +6,16 @@ permalink: /pub/
 
 - [Google Schoolar](https://scholar.google.com/citations?user=Qwdt-dEAAAAJ&hl=en)
 
+- **CTAB-GAN: Effective Table Data Synthesizing**
+	- **Zilong Zhao**, Aditya Kunar, Hiek Van der Scheer, Robert Birke, Lydia Y. Chen
+	- The 13th Asian Conference on Machine Learning, 2021
+	- [\[pdf\]](https://arxiv.org/abs/2102.08369)
+
+- **QActor: Active Learning on Noisy Labels**
+	- Taraneh Younesian, **Zilong Zhao**, Amirmasoud Ghiassi, Robert Birke, Lydia Y. Chen
+	- The 13th Asian Conference on Machine Learning, 2021
+	- [\[pdf\]](https://arxiv.org/abs/2001.10399) 
+
 - **Enhancing Robustness of On-line Learning Models on Highly Noisy Data**
 	- **Zilong Zhao**, Robert Birke, Rui Han, Bogdan Robu, Sara Bouchenak, Sonia Ben Mokhtar, Lydia Y. Chen
 	- IEEE Transactions on Dependable and Secure Computing, 2021
