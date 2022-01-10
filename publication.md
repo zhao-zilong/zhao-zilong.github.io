@@ -23,7 +23,7 @@ permalink: /pub/
 
 - **The validation of a mobile sensor-based neuro behavioral assessment with machine learning analytics**
 	- Kelly L. Sloane, Joel A. Mefford, **Zilong Zhao**, Man Xu, Guifeng Zhou, Rachel Mace, Amy E Wright, Shenly Glenn
-	- Journal of Cognitive and Behavioral neurology, 2021
+	- Cognitive and Behavioral neurology, 2021
 	- [\[pdf\]](https://www.medrxiv.org/content/10.1101/2021.04.29.21256265v1)
 
 - **Event-Based Control for Online Training of Neural Networks**
