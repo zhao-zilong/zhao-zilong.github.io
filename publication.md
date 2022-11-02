@@ -6,6 +6,25 @@ permalink: /pub/
 
 - [Google Schoolar](https://scholar.google.com/citations?user=Qwdt-dEAAAAJ&hl=en)
 
+- **Permutation-Invariant Tabular Data Synthesis**
+	- Yujin Zhu, **Zilong Zhao**, Robert Birke, Lydia Y. Chen
+	- IEEE Conference on Big Data, 2022	
+
+- **Federated Learning for Tabular Data: Exploring Potential Privacy Risk**
+	- Han Wu*, **Zilong Zhao***, Lydia Y. Chen, Aad Van Moorsel
+	- The International Symposium on Software Reliability Engineering (ISSRE), 2022
+	- [\[pdf\]](https://arxiv.org/pdf/2210.06856)
+
+- **Barrier Lyapunov function-based fixed-time FTC for high-order nonlinear systems with predefined tracking accuracy**
+	- Xiaolin Wang, Jihui Xu, Maolong Lv, Lei Zhang, **Zilong Zhao**
+	- Nonlinear Dynamics, 2022
+	- [\[pdf\]](https://link.springer.com/content/pdf/10.1007/s11071-022-07627-9.pdf)
+
+- **Fuzzy Adaptive Prescribed Performance Fault-Tolerant Control for HFVs with Fixed-Time Convergence Guarantee**
+	- Zehong Dong, Yinghui Li, Maolong Lv, **Zilong Zhao** and Binbin Pei
+	- International Journal of Aerospace Engineering, 2022
+	- [\[pdf\]](https://downloads.hindawi.com/journals/ijae/2022/2438657.pdf)
+
 - **CTAB-GAN: Effective Table Data Synthesizing**
 	- **Zilong Zhao**, Aditya Kunar, Hiek Van der Scheer, Robert Birke, Lydia Y. Chen
 	- The 13th Asian Conference on Machine Learning, 2021
@@ -28,7 +47,7 @@ permalink: /pub/
 
 - **Event-Based Control for Online Training of Neural Networks**
 	- **Zilong Zhao**, Sophie Cerf, Bogdan Robu, Nicolas Marchand
-	- EEEControl Systems Letters (L-CSS), volume. 4, pages 773-778, 2020.
+	- IEEE Control Systems Letters (L-CSS), volume. 4, pages 773-778, 2020.
 	- [\[pdf\]](https://arxiv.org/abs/2003.09503) [\[code\]](https://github.com/zhao-zilong/Event-Based-Control-Learning-Rate)
 
 - **An Exploratory Analysis on Users’ Contributions in Federated Learning**
