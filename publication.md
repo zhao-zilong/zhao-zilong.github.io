@@ -6,6 +6,7 @@ permalink: /pub/
 
 - [Google Schoolar](https://scholar.google.com/citations?user=Qwdt-dEAAAAJ&hl=en)
 
+
 - **Permutation-Invariant Tabular Data Synthesis**
 	- Yujin Zhu, **Zilong Zhao**, Robert Birke, Lydia Y. Chen
 	- IEEE Conference on Big Data, 2022	
