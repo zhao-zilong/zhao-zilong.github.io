@@ -8,11 +8,11 @@ permalink: /pub/
 
 
 - **Permutation-Invariant Tabular Data Synthesis**
-	- Yujin Zhu, **Zilong Zhao**, Robert Birke, Lydia Y. Chen
+	- Yujin Zhu, **Zilong Zhao**\*, Robert Birke, Lydia Y. Chen
 	- IEEE Conference on Big Data, 2022	
 
 - **Federated Learning for Tabular Data: Exploring Potential Privacy Risk**
-	- Han Wu, **Zilong Zhao**, Lydia Y. Chen, Aad Van Moorsel
+	- Han Wu\*, **Zilong Zhao**\*, Lydia Y. Chen, Aad Van Moorsel
 	- The International Symposium on Software Reliability Engineering (ISSRE), 2022
 	- [\[pdf\]](https://arxiv.org/pdf/2210.06856)
 
