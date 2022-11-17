@@ -38,7 +38,7 @@ permalink: /pub/
 
 - **Enhancing Robustness of On-line Learning Models on Highly Noisy Data**
 	- **Zilong Zhao**, Robert Birke, Rui Han, Bogdan Robu, Sara Bouchenak, Sonia Ben Mokhtar, Lydia Y. Chen
-	- IEEE Transactions on Dependable and Secure Computing, 2021
+	- IEEE Transactions on Dependable and Secure Computing (TDSC), 2021
 	- [\[pdf\]](https://arxiv.org/abs/2103.10824) [\[code\]](https://github.com/zhao-zilong/MotivationCaseStudies)
 
 - **The validation of a mobile sensor-based neuro behavioral assessment with machine learning analytics**
